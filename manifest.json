@@ -1,0 +1,49 @@
+{
+  "schema_version": "master-v1",
+  "subject_code": "MOLECULAR",
+  "subject_name": "醫學分子檢驗與鏡檢學",
+  "target_repo": "exammolecu",
+  "master_question_bank": "question_bank_molecular.json",
+  "generated_at": "2026-07-31T14:36:21",
+  "total_questions": 314,
+  "total_media": 11,
+  "exam_count": 4,
+  "available_years_roc": [
+    114,
+    113
+  ],
+  "exams": [
+    {
+      "project_id": "MT-2024-1-MOLECULAR",
+      "year_roc": 113,
+      "year_ad": 2024,
+      "session": 1,
+      "question_count": 77,
+      "media_count": 1
+    },
+    {
+      "project_id": "MT-2024-2-MOLECULAR",
+      "year_roc": 113,
+      "year_ad": 2024,
+      "session": 2,
+      "question_count": 78,
+      "media_count": 4
+    },
+    {
+      "project_id": "MT-2025-1-MOLECULAR",
+      "year_roc": 114,
+      "year_ad": 2025,
+      "session": 1,
+      "question_count": 80,
+      "media_count": 1
+    },
+    {
+      "project_id": "MT-2025-2-MOLECULAR",
+      "year_roc": 114,
+      "year_ad": 2025,
+      "session": 2,
+      "question_count": 79,
+      "media_count": 5
+    }
+  ]
+}
